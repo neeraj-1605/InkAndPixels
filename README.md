@@ -47,4 +47,4 @@ Ink&Pixels is a video streaming and blogging website where users can select a vi
 
 ## Authors
 
-- [Neeraj](https://github.com/neeraj-1605)
+- [Neeraj](https://www.linkedin.com/in/neeraj-verma-2b2b46244/)
