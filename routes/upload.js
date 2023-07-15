@@ -1,6 +1,3 @@
-// accessKeyId: "AKIA5E5ENM2RF2U3PPTJ"
-// secretAccessKey: "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"
-
 const { S3Client, PutObjectCommand } = require("@aws-sdk/client-s3");
 const { getSignedUrl } = require("@aws-sdk/s3-request-presigner");
 const { v4: uuid } = require("uuid");
@@ -8,8 +5,8 @@ const { v4: uuid } = require("uuid");
 const bucket = new S3Client({
   region: "ap-south-1",
   credentials: {
-    accessKeyId: "AKIA5E5ENM2RF2U3PPTJ",
-    secretAccessKey: "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",
+    accessKeyId: "",
+    secretAccessKey: "",
   },
 });
 
