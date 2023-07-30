@@ -1,6 +1,6 @@
 # Ink&Pixels - Video Streaming and Blogging Website
 
-[Visit](http://inkandpixel.ap-south-1.elasticbeanstalk.com)
+[Visit](http://ink-and-pixels.ap-south-1.elasticbeanstalk.com/)
 
 ## Description
 
